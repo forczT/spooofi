@@ -1,7 +1,7 @@
 {
   "name": "spotify-clone",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://github.com/forczT/spooofi.git",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
